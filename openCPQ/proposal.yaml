@@ -29,20 +29,24 @@ Session:
 
 Speaker1:
   name: Tim Geisler
-#  twitter: JaneDoe
-#  github: JaneDoe
+  twitter: timmuc
+  github: TimGeisler
   url: http://opencpq.org/
-#  past_experience: http://youtube.com?w=My_awesome_past_experience
+  past_experience: http://de.slideshare.net/TimGeisler/configuring-in-the-browser-really
   email: tim.geisler@webxcerpt.com
   bio: >
-    Bio of speaker1, 500 chars max.
+    After research work on automated theorem proving Tim worked
+    mainly in product configuration and model-driven software development.
+    
+    He was fighting for several years with nasty issues of commercial product-configurator software.
+    With customer-specific languages and IDEs he enabled business users to implement complex dependencies.
 
 Speaker2:
   name: Heribert Schütz
 #  twitter: JohnDoe
   github: hcschuetz
-#  url: http://johndoe.com
-#  past_experience: http://youtube.com?w=My_awesome_past_experience
+  url: http://opencpq.org
+  past_experience: http://de.slideshare.net/TimGeisler/opencpq-a-reactbased-productconfiguration-toolkit
   email: heribert.schuetz@webxcerpt.com
   bio: >
     After research work on logic programming Heribert worked in
