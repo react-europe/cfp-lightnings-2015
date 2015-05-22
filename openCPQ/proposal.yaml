@@ -44,4 +44,12 @@ Speaker2:
 #  past_experience: http://youtube.com?w=My_awesome_past_experience
   email: heribert.schuetz@webxcerpt.com
   bio: >
-    Bio of speaker2, 500 chars max.
+    After research work on logic programming Heribert worked in different
+    areas such as client-side web utilities, financial math,
+    high-performance parallel computing, and recently on product
+    configuration.
+
+    He was wondering why product configuration frameworks impose very
+    peculiar ways of specifying how a product can be configured.  And he was
+    missing all the state-of-the-art utilities that programmers have got
+    used to.  He started openCPQ to overcome this.
