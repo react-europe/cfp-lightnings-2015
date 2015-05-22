@@ -4,17 +4,18 @@ Session:
   Description: >
     Many products provide a rich variety of possible configurations.
     Configurator software helps to select one such configuration.  A
-    configurator UI may change upon each user input: Parameters, choices,
-    and subcomponents may become available or unavailable according to
-    complex dependencies.  Incompatible choices must be reported.
-    Configuration improvements may be suggested.
+    configurator UI must adapt upon each user input: Parameters,
+    choices, and subcomponents may become available or unavailable
+    according to complex dependencies.  Incompatible choices must be
+    reported.  Configuration improvements may be suggested.
 
     openCPQ is a new toolkit for product configurators running in web
-    browsers.  It avoids cumbersome and error-prone incremental updates to
-    the application state upon user input and rather regenerates the full
-    application state from the aggregated user inputs.  This is a perfect
-    match with React: openCPQ simply renders a new application state into a
-    VDOM tree, leaving it to React to update the actual UI incrementally.
+    browsers.  It avoids cumbersome and error-prone incremental updates
+    to the application state upon user input and rather regenerates the
+    full application state from the aggregated user inputs.  This is a
+    perfect match with React: openCPQ simply renders a new application
+    state into a VDOM tree, leaving it to React to update the actual UI
+    incrementally.
 
     As a bonus, representing aggregated user input by immutable data
     structures made it easy to implement functionality like undo/redo.
@@ -39,17 +40,17 @@ Speaker1:
 Speaker2:
   name: Heribert Schütz
 #  twitter: JohnDoe
-#  github: JohnDoe
+  github: hcschuetz
 #  url: http://johndoe.com
 #  past_experience: http://youtube.com?w=My_awesome_past_experience
   email: heribert.schuetz@webxcerpt.com
   bio: >
-    After research work on logic programming Heribert worked in different
-    areas such as client-side web utilities, financial math,
+    After research work on logic programming Heribert worked in
+    different areas such as client-side web utilities, financial math,
     high-performance parallel computing, and recently on product
     configuration.
 
     He was wondering why product configuration frameworks impose very
-    peculiar ways of specifying how a product can be configured.  And he was
-    missing all the state-of-the-art utilities that programmers have got
-    used to.  He started openCPQ to overcome this.
+    peculiar ways of specifying how a product can be configured.  And he
+    was missing all the state-of-the-art utilities that programmers have
+    got used to.  He started openCPQ to overcome this.
