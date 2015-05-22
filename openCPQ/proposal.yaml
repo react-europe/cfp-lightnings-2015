@@ -1,0 +1,47 @@
+7 sloc)  0.63 kb
+---
+Session:
+  Title: openCPQ - A React-Based Product-Configuration Toolkit
+  Description: >
+    Many products provide a rich variety of possible configurations.
+    Configurator software helps to select one such configuration.  A
+    configurator UI may change upon each user input: Parameters, choices,
+    and subcomponents may become available or unavailable according to
+    complex dependencies.  Incompatible choices must be reported.
+    Configuration improvements may be suggested.
+
+    openCPQ is a new toolkit for product configurators running in web
+    browsers.  It avoids cumbersome and error-prone incremental updates to
+    the application state upon user input and rather regenerates the full
+    application state from the aggregated user inputs.  This is a perfect
+    match with React: openCPQ simply renders a new application state into a
+    VDOM tree, leaving it to React to update the actual UI incrementally.
+
+    As a bonus, representing aggregated user input by immutable data
+    structures made it easy to implement functionality like undo/redo.
+
+    Currently we are propagating this light-weight approach.
+
+  Tags:
+    - configuration
+    - reactjs
+    - frameworks
+
+Speaker1:
+  name: Tim Geisler
+#  twitter: JaneDoe
+#  github: JaneDoe
+  url: http://opencpq.org/
+#  past_experience: http://youtube.com?w=My_awesome_past_experience
+  email: tim.geisler@webxcerpt.com
+  bio: >
+    Bio of speaker1, 500 chars max.
+Speaker2:
+  name: Heribert Schütz
+#  twitter: JohnDoe
+#  github: JohnDoe
+#  url: http://johndoe.com
+#  past_experience: http://youtube.com?w=My_awesome_past_experience
+  email: heribert.schuetz@webxcerpt.com
+  bio: >
+    Bio of speaker2, 500 chars max.
