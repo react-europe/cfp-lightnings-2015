@@ -1,0 +1,21 @@
+---
+Session:
+  Title: IE7 to iOS with Marty.js
+  Description: >
+    A talk about how you can use Marty.js to support a wide variety of browsers and platforms.
+    I will discuss how you can write modern JS while still support legacy browsers (e.g. IE < 9) by utilising isomorphism.
+    Also I will show how you can re-use the same code base to build react native applications.
+  Tags:
+    - isomorphism
+    - reactjs
+    - react-native
+    - flux
+    - frameworks
+
+Speaker1:
+  name: James Hollingworth
+  twitter: jhollingworth
+  github: jhollingworth
+  email: jamiehollingworth@gmail.com
+  bio: >
+    Author of Marty.js (martyjs.org)
