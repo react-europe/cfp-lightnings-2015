@@ -6,7 +6,7 @@ A lightning talk contest will happen on the 2nd of July at 5:30pm in front of th
 
 What's in a lightning? You will have 5 minutes to demo a project of yours or a project you have contributed to, the only requirement is that it must be open source and related to react.js.
 
-The top 3 lightnings picked by our judges will get awesome prizes that will be announced soon here on this README and on our blog.
+**All** lightnings speakers will get awesome prizes as described [here](https://medium.com/@patcito/our-reacteurope-lightning-talks-contest-prizes-61c786e28864).
 
 
 #How to proceed to submit a lightning#
