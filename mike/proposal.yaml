@@ -9,7 +9,7 @@ Session:
     the de facto solution to all your needs. By promoting modularity and learning from Jasmine vs Mocha war, we have decided 
     to create a quick yet simple React-first scaffold runner that will change the way you have been thinking about the code generation.
 
-    During the 5 minutes lightning talk we are going to show you how we have nailed the common disadventages of existing solutions
+    During the 5 minutes lightning talk we are going to show you how we have nailed the common disadvantages of existing solutions
     providing our users with a relatively small tool that works like a charm in every. single. project. 
 
     At the end, we are also going to do a fully exclusive launch of the core runner by publishing it to the NPM registry.
