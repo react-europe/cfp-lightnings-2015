@@ -1,0 +1,39 @@
+---
+Session:
+  Title: My awesome lightning
+  Description: >
+    Have you always wanted to write your own Yeoman generator but had tight deadlines with core codebase changing frequently?
+    Awesome! We got you covered.
+
+    One of the main Este.js design decisions was to eliminate pitfalls of overabstracted web frameworks that tend to provide
+    the de facto solution to all your needs. By promoting modularity and learning from Jasmine vs Mocha war, we have decided 
+    to create a quick yet simple React-first scaffold runner that will change the way you have been thinking about the code generation.
+
+    During the 5 minutes lightning talk we are going to show you how we have nailed the common disadventages of existing solutions
+    providing our users with a relatively small tool that works like a charm in every. single. project. 
+
+    At the end, we are also going to do a fully exclusive launch of the core runner by publishing it to NPM registry.
+
+    Stay tuned... and scaffold!
+
+  Tags:
+    - reactjs
+    - estejs
+    - scaffolding
+    - cli
+    - boilerplate
+
+Speaker1:
+  name: Mike Grabowski
+  twitter: grabbou
+  github: grabbou
+  url: http://github.com/grabbou
+  email: grabbou@gmail.com
+  bio: >
+    Mike is a lead developer at Man and Moon, a full-stack development agency based in London and Wroclaw
+    with a strong focus on delivering cutting-edge user experience with a little help from Javascript.
+
+    Involved in React.js community for past few months, Mike recently jumped in onto Este.js bandwagon where
+    he helps maintaing the most complete React/Flux dev stack. Former contributor to such a projects as Keystone, 
+    enjoys playing on a gituar when the internet is down.
+
