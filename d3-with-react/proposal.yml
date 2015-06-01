@@ -1,0 +1,38 @@
+---
+Session:
+  Title: d3 with React
+  Description: >
+    d3 has been the de facto standard when it comes to data visualisations for a while now and React
+    has recently emerged as the go-to library for building user interfaces. d3 and React are both
+    data-centric libraries, making them a natural fit; d3 takes a data-driven approach and React aims
+    to solve the problem of data changing over time in the context of building large applications.
+    
+    In recent months, there have been various approaches documented on how to effectively use d3 and
+    React together. In this talk, I will be going through what I have learned from all those approaches
+    and how I go about creating reusable chart components with some examples of things I have already
+    built.
+    
+    All reusable components that I make use of and present during my talk will be open sourced.
+
+  Tags:
+    - d3
+    - reactjs
+    - visualisations
+    - charting
+
+Speaker1:
+  name: Andreas Savvides
+  twitter: andrs
+  github: AnSavvides
+  url:  http://ansavvides.github.io/
+  past_experience: http://www2012.org/proceedings/companion/p313.pdf
+  email: andreas@twitter.com
+  bio: >
+    Andreas is a full-stack, product-driven Software Engineer who enjoys building interactive single
+    page applications with rich data visualisations. He is currently engineering things at Twitter.
+    
+    Previously, he worked at EDITD for 2.5 years and IBM for a year after completing an MSc in
+    Computer Science at the University of Oxford.
+    
+    In his spare time, Andreas helps female graduates to learn to code as a Mentor/Lead Instructor for Code
+    First: Girls.
