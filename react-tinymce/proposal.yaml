@@ -1,0 +1,21 @@
+---
+Session:
+  Title: React with TinyMCE
+  Description: >
+    TinyMCE is awesome for its intended purpose. However, it really does not want to be controlled and often does weird things when monitored too closely. In this talk I will cover the things I had to do to make TinyMCE work as a controlled input.
+    
+    Repository - https://github.com/HurricaneJames/react-tinymce-input.git
+  Tags:
+    - reactjs
+    - tinymce
+    - controlled-components
+
+Speaker1:
+  name: James Burnett
+  twitter: HurricaneJames
+  github: HurricaneJames
+  url: https://github.com/HurricaneJames
+  past_experience: -
+  email: HurricaneJamesEsq@gmail.com
+  bio: >
+    I write software for Tribune Publishing. For the past two years I have been focused on front-end development. For the past six months I have been leading the front-end redesign of our custom content management system. It was during this process that I discovered React. Now my co-workers are tired of hearing me talk about it, so I need a new outlet.
