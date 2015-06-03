@@ -1,0 +1,37 @@
+---
+Session:
+  Title: A templateless Python UI framework inspired by React & XHP
+  Description: >
+    Python at a cutting-edge front end conference?? *ducks for cover*. A key revelation of 
+    React is that the server-side folk have it easy: regenerating an entire page from scratch 
+    is far simpler than micromanaging state strewn across DOM elements. For web applications 
+    that don’t require a high degree of interactivity (not all do), there’s still a big 
+    advantage to server-side UI:
+        - Direct access to the data layer. No need to wrangle REST, decide on a Flux framework, 
+          or hold out for a certain silver-bullet data fetching technology.
+        - By default you get an accessible and SEO friendly website with a fully compliant 
+          Roy Fielding HATEOAS™ API.
+        - You’re free to write it in JS …but you don’t have to!
+
+    The other revelation is ~~the virtual dom~~ that templates suck and composability rules. 
+    I bring you Compony (https://github.com/mbylstra/compony), a Pythonic UI framework with a 
+    similar set of features for stateless (“dumb”) components to React such as props, children, 
+    and contexts (we call them them “xrays”). Compony also introduces a couple of novel 
+    features: “regions” and “swaps”, but I’ve run out of space to tell you what they are, so 
+    you’ll have to upvote this submission to find out!
+
+  Tags:
+    - Python
+    - reactjs
+    - XHP
+    - server-side
+
+Speaker1:
+  name: Michael Bylstra
+  twitter: mbylstra
+  github: mbylstra
+  email: mbylstra@gmail.com
+  bio: >
+    Hailing from Melbourne, Australia, Michael Bylstra is a Full Stack web developer at 
+    Art Processors. He’s currently working on Enso Locate, a mobile indoor location system 
+    that features a spatial data management system written in React.
