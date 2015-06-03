@@ -1,0 +1,21 @@
+---
+Session:
+  Title: Custom scrollbar with ReactJS
+  Description: >
+    Description of my awesome talk goes here, 1000 chars max.
+  Tags:
+    - reactjs
+    - UI components
+    - scrollbar
+    - design
+
+Speaker1:
+  name: Guy Romm
+  github: rommguy
+  url: http://janedoe.com
+  email: guyr@wix.com
+  bio: >
+    I've been a front-end engineer for the past 4 years, and I'm loving every minute of it.
+    Before I became an engineer I was a product manager for several years, until I got tired of asking other people to do stuff :)
+    Currently a Team leader at Wix.com. In the last year, I am working on re-writing our main product with ReactJS - the HTML website editor.
+
