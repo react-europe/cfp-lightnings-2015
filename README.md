@@ -1,4 +1,4 @@
-##CFP is closed, thanks for your participation!##
+##CFP is closing today at 23:59 UTC+0!##
 
 #ReactEurope Lightning talks Call For Papers#
 
