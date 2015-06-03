@@ -1,0 +1,30 @@
+---
+Session:
+  Title: Brewfactory: Beer Brewing with Node and React
+  Description: >
+    Have you ever thought about how cool would it be to drink you own beer instead of the commercial ones?
+    This story is about us: beer lovers and techies:
+
+    "An IT engineer and a med student walks in to a bar. They get disappointed by the corn infested MegaBrews, so comes the motivation to put up a fight."
+
+    There is nothing hard in brewing your own beer, but some of the processes are really boring and time consuming if you don't automate it.
+    Because of this, me and a friend of mine built a semi-automated brewing machine what is powered by Node.js, SparkCore and React.js.
+    It runs in the cloud, collect logs, sends notifications and also has an isomorphic React client.
+
+    We call the project http://brewfactory.org/ and already brewed a huge amount of beer with that.
+    cheers!
+  Tags:
+    - beer
+    - isomorphic
+    - iot
+
+Speaker1:
+  name: Peter Marton
+  twitter: slashdotpeter
+  github: hekike
+  url: http://brewfactory.org
+  past_experience: https://www.youtube.com/watch?v=m8EEaaUdYMM
+  email: peter@risingstack.com
+  bio: >
+    Peter Marton is the CTO and co-founder of RisingStack. He specialised in full-stack JavaScript: Node.js and React.js.
+    He is currently researching microservice-based infrastructures.
