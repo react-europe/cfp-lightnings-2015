@@ -20,10 +20,22 @@ Speaker1:
   twitter: MatthiasLaug
   github: mlaug
   url: http://www.artofcode.de, https://github.com/yourdelivery/JigMagga
-  past_experience: http://youtube.com?w=My_awesome_past_experience
-  email: matthias.laug@gmail.com
+  past_experience: 
+  email: matthias.laug@takeaway.com
   bio: >
     since 2009 CTO lieferando.de
     since 2015 CTO takeaway.com
 
+Speaker2:
+  name: Jens Naie
+  twitter: 
+  github: jnaie
+  url: https://github.com/yourdelivery/JigMagga
+  past_experience: 
+  email: jens.naie@takeaway.com
+  bio: >
+    Head of IT Development takeaway.com
+    CTO Brazil yd. yourdelivery GmbH
+    Head of IT Content Fleet
+    Senior Developer getanet
 
