@@ -1,0 +1,41 @@
+---
+Session:
+  Title: Going native with Este.js
+  Description: >
+    Este.js is the most complete React/Flux dev stack. The perfect cure for developers already tired with mainstream frameworks 
+    like Angular or Ember.
+
+    It ships with lots of goodies including immutable single app state, top-down data passing and intl translations out of the box! 
+    So let's use all these features to start building native apps!
+
+    In this lightning I am going to walk you through the process of transitioning Este.js dev stack to the native world 
+    outlining the most common problems and pitfalls we needed to face, including:
+      - Project setup - preparing the native application ecosystem and reorganising the folder structure
+      - Migration - moving the codebase to React Native, deciding what files can be just dropped in and what needs to be rewritten
+      - Styles - replacing stylesheets and mixins with StyleSheet showing good-to-use patterns we can use to make it all maintainable
+      - Routing - handling lack of the React Router with custom navigation on top of Navigator
+
+  If you are already a React.js developer, this talk will give you an inspiration and quick overview how easily 
+  you can ship your current app with native components!
+
+  Tags:
+    - reactjs
+    - estejs
+    - reactnative
+    - ios
+    - javascript
+
+Speaker1:
+  name: Mike Grabowski
+  twitter: grabbou
+  github: grabbou
+  url: http://github.com/grabbou
+  email: grabbou@gmail.com
+  bio: >
+    Mike is a lead developer at Man and Moon, a full-stack development agency based in London and Wroclaw
+    with a strong focus on delivering cutting-edge user experience with a little help from Javascript.
+
+    Involved in React.js community for past few months, Mike recently jumped in onto Este.js bandwagon where
+    he helps maintaing the most complete React/Flux dev stack. Former contributor to such projects as Keystone, 
+    enjoys playing on a guitar when the Internet is down.
+
