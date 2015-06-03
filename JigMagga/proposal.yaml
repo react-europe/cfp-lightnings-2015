@@ -1,0 +1,29 @@
+---
+Session:
+  Title: JigMagga - isomorphic and static web application
+  Description: >
+    Nothing is faster but static content. Therefore lot's of static generators appeared
+    over the last years. In the process of being the fastest provider of content 
+    in our segment without buying insane amount of hard metal
+    we have build an application that could be both, single page or statically 
+    generated application. Behaviour nor functionalitiy should differ, while logic could both
+    run on the client or on the server (e.g. for slow machines). This is the goal of JigMagga, which 
+    I like to pitch briefly. 
+
+  Tags:
+    - isomorphism
+    - frameworks
+    - performance
+
+Speaker1:
+  name: Matthias Laug
+  twitter: MatthiasLaug
+  github: mlaug
+  url: http://www.artofcode.de, https://github.com/yourdelivery/JigMagga
+  past_experience: http://youtube.com?w=My_awesome_past_experience
+  email: matthias.laug@gmail.com
+  bio: >
+    since 2009 CTO lieferando.de
+    since 2015 CTO takeaway.com
+
+
