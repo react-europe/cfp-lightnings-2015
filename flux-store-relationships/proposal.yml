@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Store relationships made easy
+  Description: >
+    Getting tired of manually handling store relationships in flux? In this talk i will go through how i made store 
+    relationships painless in Capacitor.js based on @gaearons classification of stores. This talk will feature
+    usage examples, immutable.js data structures and how to cache the right things properly to ensure strict comparability.
+    I will end the talk by reflecting on the pros and cons of being able to easily split up stores in no time.
+  Tags:
+    - flux
+    - immutable.js
+    - store relationships
+    - framework
+    - capacitor.js
+
+Speaker1:
+  name: Mikkel Schmidt
+  twitter: miklschmidt
+  github: miklschmidt
+  url: http://github.com/miklschmidt/capacitor.js
+  email: mikkel.schmidt@gmail.com
+  bio: >
+    Mikkel is a frontend engineer at Secoya A/S a full-stack development company based in Aarhus, Denmark, whose primary focus is on 
+    the propriatary enterprise knowledge management and process management product Orbit. 
+    During his 8+ years as a full-stack web developer he developed a strong affection for user experience design and frontend code.
+    When he's not coding CoffeeScript he's probably busy picking up exalted orbs in the free-to-play ARPG Path of Exile.
