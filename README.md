@@ -1,3 +1,5 @@
+##CFP is closed, thanks for your participation!##
+
 #ReactEurope Lightning talks Call For Papers#
 
 A lightning talk contest will happen on the 2nd of July at 5:30pm in front of the whole audience!
