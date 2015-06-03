@@ -7,7 +7,7 @@ Session:
     - A server-side rendered react app with a more cannonical take on flux in production for 4 months
 
     I want to cover some of the major decisions we've made, why they were good or bad and what we learned from them.
-    Hopefully you guys will find more flaws and help me do a better job.
+    Hopefully you guys will find more flaws and help us do a better job.
   Tags:
     - reactjs
     - frameworks
@@ -22,3 +22,10 @@ Speaker1:
   bio: >
     Bogdan is the CTO of AnyRoad, he architected both anyguide.com and anyroad.com, which are two different takes on react and flux.
     Before AnyRoad he spent some time at SoundCloud, UberVU and Okapi working on a bunch of projects.
+
+Speaker2:
+  name: Giannis Katsanos
+  github: gkats
+  email: gkats@anyroad.com
+  bio: >
+    Giannis is the AnyRoad bassist, he's awesome.
