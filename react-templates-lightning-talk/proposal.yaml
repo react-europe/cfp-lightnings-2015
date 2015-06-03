@@ -7,7 +7,7 @@ Session:
     logic and produces runtime HTML that is nearly identical to the template.
     We created it at Wix.com and we use it in our main product - the HTML editor.
     I will demostrate how it improves testability and readability of the code.
-    I will also show a couple of great * directives for flow control * (rt-if and rt-repeat) that make the templates very easy to write.
+    I will also show a couple of great directives for flow control (rt-if and rt-repeat) that make the templates very easy to write.
 
   Tags:
     - templates
@@ -25,7 +25,7 @@ Speaker1:
   bio: >
     I've been a front-end engineer for the past 4 years, and I'm loving every minute of it.
     Before I became an engineer I was a product manager for several years, until I got tired of asking other people to do stuff :)
-    Currently Team leader at Wix.com. In the past year, working on re-writing our main product with ReactJS - the HTML website editor.
+    Currently a Team leader at Wix.com. In the last year, I am working on re-writing our main product with ReactJS - the HTML website editor.
 
 
 
