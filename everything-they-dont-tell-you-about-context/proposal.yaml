@@ -1,0 +1,28 @@
+---
+Session:
+  Title: Everything they don't tell you about context
+  Description: >
+    Rule number 1 of context-club, is don't talk about context. It's undocumented 
+    and subject to change, but lots of libraries need it and use it. This talk 
+    promises to be a humourous look at context, and will go through the concepts 
+    and APIs, whilst attempting not to mention the word "context".  Some things are 
+    due to change in 0.14, and there's plenty of discussion going on about how to 
+    move forward with it, so let's get prepared.
+
+  Tags:
+    - reactjs
+    - context
+
+Speaker1:
+  name: Dave Brotherstone
+  twitter: bruderstein
+  github: bruderstein
+  url: 
+  past_experience: Two talks at JS Unconf 2015 in Hamburg (not recorded)
+  email: davegb@pobox.com
+  bio: >
+    Dave is a developer from England, working in Germany on a customer portal using React. 
+    He previously worked in Berlin on backend stuff, mentors at local nodeschool events 
+    and takes the odd bad photo when prised away from his not-mac.
+
+
