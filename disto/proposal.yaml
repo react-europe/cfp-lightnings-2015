@@ -1,0 +1,31 @@
+---
+Session:
+  Title: values that change over time
+  Description: >
+    I work as a UI architect for myntra.com, which famously shut down its website earlier this, year to go app-only.
+    I'd like to talk about how I dealt with the situation personally / professionally (I wrote some thoughts about this)[https://myntra.github.io/2015/05/17/personal-thoughts-on-the-shutdown-of-the-myntra-website/],
+    how React saved my career and sanity, and what our new stack is starting to look like.
+    Featuring - disto, my flux framework with full record / replay, dev tools, hot loading, etc, and cortex, myntra's in-house native 'content system', to be open sourced later this year.
+
+  Tags:
+    - myntra
+    - web
+    - react
+    - native
+    - disto
+    - flux
+    - frameworks
+
+Speaker1:
+  name: Sunil Pai
+  twitter: threepointone
+  github: threepointone
+  url: http://myntra.com
+  past_experience: https://hasgeek.tv/threepointone/speaking-in/966-sunil-pai-on-node-myntra
+
+  email: threepointone@gmail.com
+  bio: >
+    I work with user interfaces in Bangalore, mostly bashing together javascript till it makes sense.
+    I've previously worked in Visa, Pramati, Idiom, Yahoo, until finally settling into a brown beanbag at
+    the myntra.com office. In my spare time I play a blue Les Paul.
+
