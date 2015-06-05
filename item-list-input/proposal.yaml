@@ -1,0 +1,27 @@
+---
+Session:
+  Title: Testing React Components That Require Layout with Karma
+  Description: >
+    It is really easy to start writing code with React.js. However, testing that code can be a bit of a pain. Testing gets even harder when writing components that need a layout engine to calculate boundaries and offsets.
+    
+    There are several solutions for testing React code. The most popular are to be Jest and Mocha. However, Jest is limited by reliance on JSDOM, and Mocha is most often configured to use JSDOM too. Testing components with layout requirements requires a test engine like Karma. Karma will run the tests in real browsers, so there is a real DOM with real layout.
+    
+    In this talk I will discuss testing a component/package using Karma. I will also talk about ways to make sure the component does not break the tests of other packages that require it. If we have time, I will also cover some of the side benefits, and negatives, of using Karma.
+    
+    Repository - https://github.com/HurricaneJames/react-item-box-input
+
+  Tags:
+    - reactjs
+    - testing
+    - karma
+    - mocha
+
+Speaker1:
+  name: James Burnett
+  twitter: HurricaneJames
+  github: HurricaneJames
+  url: https://github.com/HurricaneJames
+  past_experience: -
+  email: HurricaneJamesEsq@gmail.com
+  bio: >
+    I write software for Tribune Publishing. For the past two years I have been focused on front-end development. For the past six months I have been leading the front-end redesign of our custom content management system. It was during this process that I discovered React. Now my co-workers are tired of hearing me talk about it, so I need a new outlet.
