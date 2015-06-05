@@ -1,0 +1,35 @@
+---
+Session:
+  Title: Can components be truly encapsulated?
+  Description: >
+    Why does it become difficult to create and maintain components as your
+    single page app ages?
+
+    What if components were completely decoupled from other components and the
+    global app state?
+
+    How to design components that are truly encapsulated?
+
+    This talk walks you through the development of Cosmos[0], a one year
+    journey to create an elegant tool for designing encapsulated React
+    components. How it started, the milestones and insights along the way, and
+    what you can do with it today (live demo of Flatris[1] components inside
+    ComponentPlayground).
+
+    [0] http://github.com/skidding/cosmos
+    [1] http://skidding.github.io/flatris
+  Tags:
+    - reactjs
+    - encapsulation
+    - development
+    - scalability
+
+Speaker1:
+  name: Ovidiu Cherecheș
+  twitter: skidding
+  github: skidding
+  email: hello@ovidiu.ch
+  bio: >
+    Ovidiu is leading the Analytics UI team at Hootsuite, a web app written
+    completely in React to be launched for millions of users. Trying to build
+    useful open-source tools in spare time.
