@@ -1,0 +1,60 @@
+---
+Session:
+  Title: openCPQ - A React-Based Product-Configuration Toolkit
+  Description: >
+    Many products provide a rich variety of possible configurations.
+    Configurator software helps to select one such configuration.  A
+    configurator UI must adapt upon each user input: Parameters,
+    choices, and subcomponents may become available or unavailable
+    according to complex dependencies.  Incompatible choices must be
+    reported.  Configuration improvements may be suggested.
+
+    openCPQ is a new toolkit for product configurators running in web
+    browsers.  It avoids cumbersome and error-prone incremental updates
+    to the application state upon user input and rather regenerates the
+    full application state from the aggregated user inputs.  This is a
+    perfect match with React: openCPQ simply renders a new application
+    state into a VDOM tree, leaving it to React to update the actual UI
+    incrementally.
+
+    As a bonus, representing aggregated user input by immutable data
+    structures made it easy to implement functionality like undo/redo.
+
+    Currently we are propagating this light-weight approach.
+
+  Tags:
+    - configuration
+    - reactjs
+    - frameworks
+
+Speaker1:
+  name: Tim Geisler
+  twitter: timmuc
+  github: TimGeisler
+  url: http://opencpq.org/
+  past_experience: http://de.slideshare.net/TimGeisler/configuring-in-the-browser-really
+  email: tim.geisler@webxcerpt.com
+  bio: >
+    After research work on automated theorem proving Tim worked
+    mainly in product configuration and model-driven software development.
+    
+    He was fighting for several years with nasty issues of commercial product-configurator software.
+    With customer-specific languages and IDEs he enabled business users to implement complex dependencies.
+
+Speaker2:
+  name: Heribert Schütz
+#  twitter: JohnDoe
+  github: hcschuetz
+  url: http://opencpq.org
+  past_experience: http://de.slideshare.net/TimGeisler/opencpq-a-reactbased-productconfiguration-toolkit
+  email: heribert.schuetz@webxcerpt.com
+  bio: >
+    After research work on logic programming Heribert worked in
+    different areas such as client-side web utilities, financial math,
+    high-performance parallel computing, and recently on product
+    configuration.
+
+    He was wondering why product configuration frameworks impose very
+    peculiar ways of specifying how a product can be configured.  And he
+    was missing all the state-of-the-art utilities that programmers have
+    got used to.  To overcome this he started openCPQ.
