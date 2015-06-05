@@ -1,0 +1,40 @@
+---
+Session:
+  Title: Relay-like REST-friendly Immutable-based data library
+  Description: >
+    In the first wave of Flux frameworks we built our own (it seems everyone had).
+    However, we don't like the amount of boilerplate code we have to write, and we haven't
+    found any Flux library that would solve that.
+
+    There's a light at the end of the tunnel, and it's called Relay. Two problems.
+    Relay is not here yet. And it's not designed to work with REST. Our entire platform is built
+    as a collection of REST services, and we have JS SDKs that wrap around the endpoints.
+
+    So the question is, can we have *something* that is as simple to integrate with React components
+    as Relay is, and lets client-side models deal with data persistence?
+
+    We have a POC and a plan. At this point I'm not sure if the plan will work out, which makes this
+    talk proposal really interesting - either it's going to be about a brand new library,
+    or it will be a reflection on what went wrong / why it can't be done.
+    (But hey, we're engineers, it *has* to work. Trust me.[0])
+
+    [0] http://cdn.mothership.sg/wp-content/uploads/2014/11/engineering-meme-3.jpg
+
+  Tags:
+    - reactjs
+    - relay
+    - rest
+    - immutable
+
+Speaker1:
+  name: Petr Bela
+  twitter: petrbela
+  github: petrbela
+  url: http://petrbela.com
+  past_experience:
+  email: me@petrbela.com
+  bio: >
+    Petr works as a full-stack engineer/architect at Chute, a YC W12 company in San Francisco.
+    He spent years trying to fell in love with Angular and Backbone.
+    Then he finally discovered React, and the only thing he regrets is he did not start using it earlier.
+    When he gets fed up with frontend he enjoys writing poems in Ruby, AI agents in Python, or scaling Elasticsearch.
