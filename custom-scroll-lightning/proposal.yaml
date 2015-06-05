@@ -1,0 +1,28 @@
+---
+Session:
+  Title: Custom scrollbar with ReactJS
+  Description: >
+    Designing the scrollbar is an important part of an application UI, but it isn't easy to achieve.
+    The native scrollbar usually doesn't fit the UI language of the application, and every combination
+    of browser + OS can produce a differet look for the scrollbar.
+    The smallest library I found that allows custom scrollbar was more than 1000 lines of codes, and had lots of bugs.
+    So I wrote react-custom-scroll. Easy to use, less than 200 lines of code, and more importantly - cross browser including IE 9+.
+    The scroll behavior is native (animation, ratio, smooth), the design is the only part which is custom.
+    I will show a demo and explain in short who to use the component, and how it works.
+    This is the scroll in our new HTML editor at Wix.com.
+  Tags:
+    - reactjs
+    - UI components
+    - scrollbar
+    - design
+
+Speaker1:
+  name: Guy Romm
+  github: rommguy
+  url: http://rommguy.github.io/react-custom-scroll/
+  email: guyr@wix.com
+  bio: >
+    I've been a front-end engineer for the past 4 years, and I'm loving every minute of it.
+    Before I became an engineer I was a product manager for several years, until I got tired of asking other people to do stuff :)
+    Currently a Team leader at Wix.com. In the last year, I am working on re-writing our main product with ReactJS - the HTML website editor.
+
