@@ -1,0 +1,18 @@
+---
+Session:
+  Title: Building the React Native Playground
+  Description: >
+    Soon after React Native's release, I started working on this tool to help share and test React Native apps: the React Native Playground (https://rnplay.org). Soon after, a team build around it and made it awesome in a matter of weeks: picking up sponsorship from Appetize.io and building an iOS app with React Native itself.  This talk is a quick overview of how it was built, highlighting the importance of early adopters and runnable examples.
+  Tags:
+    - reactjs
+    - react-native
+
+Speaker1:
+  name: Joshua Sierles
+  twitter: jsierles
+  github: jsierles
+  url: http://joshua.si
+  past_experience: 
+  email: joshua@diluvia.net
+  bio: >
+    Joshua is a freelance Ruby and Devops consultant living in Sevilla, Spain, where he plays flamenco guitar and wakes up late. Currently he's delving into React.js via the React Native Playground project.
