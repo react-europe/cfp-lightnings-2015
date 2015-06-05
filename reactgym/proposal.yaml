@@ -1,0 +1,40 @@
+---
+Session:
+    Title: ReactGym
+    Description: >
+        In this talk I will demo a workout-tracking application I built using React.
+        I will explain my reasoning behind the technology choices I made and 
+        provide some insights regarding the pitfalls and challenges encountered when building 
+        React applications for multiple platforms.
+
+        I wrote this app to get more familiar with react development as a whole, 
+        including extensive unit testing using Jest.
+        It is written completely in ES6 and uses Immutable datastructures for all application state.
+        The application follows the flux pattern and has all the cool gadgets for 
+        productive development like webpack, eslint and react-hot-loader.
+        It also has native phonegap builds for Android and iOS, featuring file-based backups.
+
+        Repository - https://github.com/zupzup/reactgym
+        Demo - http://zupzup.github.io/reactgym/
+    Tags:
+        - immutable
+        - flux
+        - reactjs
+        - react-router
+        - ES6
+        - jest
+        - phonegap
+
+    Speaker1:
+        name: Mario Zupan 
+        twitter: mzupzup
+        github: zupzup
+        url: https://github.com/zupzup 
+        past_experience: - 
+        email: mzupanmz@gmail.com 
+        bio: >
+            I'm a Software Engineer from Graz, Austria. I got a Master's Degree in Software Engineering 
+            from Graz University of Technology.
+            For the last 3.5 years I've been working at Netconomy, creating e-Commerce solutions. 
+            I work in the Smart Devices Team, where we build mobile web frontends for our shops.
+            I started out with React last summer and never looked back ;)
