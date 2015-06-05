@@ -1,0 +1,41 @@
+---
+Session:
+  Title: How we are turning React (and Flux) into a dynamic platform to compose the web
+  Description: >
+    This lightning talk is the (practical) story of how we are turning both React and Flux into a
+    dynamic platform to host a variety of apps that interact to create a functional web experience
+    with a futuristic twist. We call it [Panels](https://usepanels.com/).
+
+    We are turning React into a rendering platform that links multiple applications through their
+    Flux contexts on the fly which allows you to compose the web instead of having it fragmented as
+    separate silos - which is how we're currently used to use it.
+
+    Development can be followed at [UXtemple's GitHub](https://github.com/UXtemple).
+
+    We're putting this together with @tomatuxtemple and
+    [many experiments](https://usepanels.com/experiments) led us this way :).
+  Tags:
+    - panels
+    - dynamic
+    - functional
+    - apps
+    - platform
+    - flux
+    - reactjs
+
+Speaker1:
+  name: Darío Javier Cravero
+  twitter: dariocravero
+  github: dariocravero
+  url: https://uxtemple.com/uxtemple/a-bit-about-us/dario-javier-cravero
+  past_experience:
+  email: dario@uxtemple.com
+  bio: >
+    I make things.
+    I've been CTO of a couple of startups for the last few years leading every technological
+    decisions we faced.
+    On the last we focused on actively pushing the web forward by creating a new way of building
+    the web which we call Panels.
+    I do Open Source and love it.
+    All in all, I see technology as a means to an end: to communicate; so going forward I want to
+    keep on doing exactly that: I want to lead the way we make the web happen.
